@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         h-a-p-p-y-m-h
 // @namespace    h-a-p-p-y-m-h.user.js
-// @version      2024.10.11
+// @version      2024.10.12
 // @description  down h-a-p-p-y-m-h
 // @author       You
 // @include      /^https:\/\/m\.h[a4]p[p9]ymh\.c[o0]m\/r[e3]ads\//
