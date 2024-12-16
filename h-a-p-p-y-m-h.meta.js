@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         h-a-p-p-y-m-h
 // @namespace    h-a-p-p-y-m-h.user.js
-// @version      2024.10.12
+// @version      2024.12.16
 // @description  down h-a-p-p-y-m-h
 // @author       You
-// @include      /^https:\/\/m\.h[a4]p[p9]ymh\.c[o0]m\/r[e3]ads\//
+// @include      /^https:\/\/m\.h[a4]p[p9]ymh\.c[o0]m\/m[a4]ng[a4]r[e3]ad\//
 // @icon         https://raw.githubusercontent.com/ishidaren3456/tu_xe_trau/main/h-a-p-p-y-m-h.png
 // @grant        GM_xmlhttpRequest
 // @run-at       document-start
